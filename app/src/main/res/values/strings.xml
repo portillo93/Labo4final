@@ -1,15 +1,48 @@
 <resources>
-    <string name="app_name">FragmentApp</string>
+    <string name="app_name">Planetas</string>
 
-    <string-array name="Planets">
-        <item>Sun</item>
-        <item>Mercury</item>
+    <string-array name="Planetas">
+        <item>Sol</item>
+        <item>Mercurio</item>
         <item>Venus</item>
-        <item>Earth</item>
-        <item>Mars</item>
+        <item>Tierra</item>
+        <item>Marte</item>
         <item>Jupiter</item>
-        <item>Saturn</item>
-        <item>Uranus</item>
-        <item>Neptune</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+    </string-array>
+    <string-array name="Images">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="distancia">
+        <item></item>
+        <item>Distancia al sol: 57.910.000 Km.</item>
+        <item>Distancia al sol: 108.210.000 Km.</item>
+        <item>Distancia al sol: 146.600.000 Km.</item>
+        <item>Distancia al sol: 227.940.000 Km.</item>
+        <item>Distancia al sol: 778.330.000 Km.</item>
+        <item>Distancia al sol: 1.429.400.000 Km.</item>
+        <item>Distancia al sol: 2.870.990.000 Km.</item>
+        <item>Distancia al sol: 4.504.300.000 Km.</item>
+    </string-array>
+    <string-array name="satelites">
+        <item>El sol es una estrella de tipo-G de la secuencia principal y clase de luminosidad V que se encuentra en el centro del sistema solar y constituye la mayor fuente de radiación electromagnética de este sistema planetario.</item>
+        <item>Mercurio es el planeta del sistema de solar más próximo al sol y el más pequeño. Forma parte de los denominados planetas interiores o rocosos y carece de satélites.</item>
+        <item>Venus es el segundo planeta del sistema solar en orden de distancia desde el sol, y el tercero en cuanto a tamaño,de menor a mayor. Se trata de un planeta de tipo rocoso y terrestre.</item>
+        <item>La tierra es el más denso y el quinto mayor de los ocho planetas del sistema solar. También es el mayor de los cuatro terrestres. Tiene un único satélite: la Luna.</item>
+        <item>Marte es el cuarto planeta del sistema solar más cercano al sol. Tiene una atmosfera delgada formada por dióxido de carbono, y dos satélites: Fobos y Deiomos. Es un plameta rocoso.</item>
+        <item>Júpiter es el quinto planeta del sistema solar. Júpiter es un cuerpo masivo gaseoso, formado principalmente por hidrógeno y helio. Se trata del planeta que ofrece un mayor brillo a lo largo del año.</item>
+        <item>Saturno es el sexto planeta del sistema solar, el segundo en tamaño y masa despues de jupiter y el unico con un sistema de anillos visible desde nuestro planeta.</item>
+        <item>Urano es el septimo planeta del sistema solar, el tercero en cuanto a mayor tamaño, de mayor a menor, y el cuarto más masivo. Urano es similar en composición gaseosa a Neptuno.</item>
+        <item>Neptuno es el 8° planeta en distancia respecto al sol y el más lejano del sistema solar. Forma parte de los denominados planetas gaseosos, y es el primero que fue descubierto gracias a predicciones matemáticas.</item>
     </string-array>
 </resources>
